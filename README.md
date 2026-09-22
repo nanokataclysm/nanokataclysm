@@ -27,6 +27,10 @@ An experimental, local-first personal companion with explicit consent, scoped pe
 
 - **[nk-ascii-gen](https://github.com/nanokataclysm/nk-ascii-gen)** — a browser-based FIGlet banner maker with color, ANSI output, and Python export.
 - **[nk-cli](https://github.com/nanokataclysm/nk-cli)** — public-safe assistive utilities for boundaries, diagnostics, and dry-run cleanup planning.
+- **[nanokat-signer](https://github.com/nanokataclysm/nanokat-signer)** — fast Rust Ed25519 creative provenance signing with portable JSON sidecars.
+- **[rwa-lens](https://github.com/nanokataclysm/rwa-lens)** — deterministic CoinMarketCap real-world asset reports with offline fixtures.
+- **[they-them](https://github.com/nanokataclysm/they-them)** — Linux VST3 and standalone vocal pitch and formant shifting audio effect.
+- **[make-synth](https://github.com/nanokataclysm/make-synth)** — modular drone and noise synthesizer available as VST3/CLAP/AU and in the browser.
 
 ## Current focus
 
